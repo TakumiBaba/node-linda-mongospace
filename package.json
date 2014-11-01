@@ -26,6 +26,8 @@
     "mocha": "^1.21.4"
   },
   "dependencies": {
-    "coffee-script": "^1.8.0"
+    "coffee-script": "^1.8.0",
+    "debug": "^2.1.0",
+    "mongoose": "^3.8.18"
   }
 }
